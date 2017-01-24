@@ -1,0 +1,25 @@
+{
+  "name": "poly",
+  "version": "1.0.0",
+  "description": "For compilers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-woodlee/Poly.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j-woodlee/Poly/issues"
+  },
+  "homepage": "https://github.com/j-woodlee/Poly#readme",
+  "dependencies": {
+    "ohm-js": "^0.12.3"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
